@@ -7,4 +7,5 @@ Libraries used:
 3) Butterknife
 
 Detail about the project:
+
 This simple project has a single screen which will accept email id and password. Check for validation after user press the "Submit" button. If the user has entered some value in both the fields it will make a network call and just show the response in a Toast.
