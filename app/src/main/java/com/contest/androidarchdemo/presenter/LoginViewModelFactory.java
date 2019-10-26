@@ -1,8 +1,8 @@
 package com.contest.androidarchdemo.presenter;
 
-import android.arch.lifecycle.ViewModel;
-import android.arch.lifecycle.ViewModelProvider;
-import android.support.annotation.NonNull;
+import androidx.lifecycle.ViewModel;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.annotation.NonNull;
 
 import com.contest.androidarchdemo.MyApplication;
 

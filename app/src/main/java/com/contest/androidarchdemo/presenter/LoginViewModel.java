@@ -1,11 +1,9 @@
 package com.contest.androidarchdemo.presenter;
 
-import android.app.Application;
-import android.arch.lifecycle.AndroidViewModel;
-import android.arch.lifecycle.LiveData;
-import android.arch.lifecycle.ViewModel;
-import android.os.Handler;
-import android.support.annotation.NonNull;
+import androidx.lifecycle.AndroidViewModel;
+import androidx.lifecycle.LiveData;
+import androidx.lifecycle.ViewModel;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.contest.androidarchdemo.MyApplication;
